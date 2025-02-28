@@ -2,12 +2,29 @@
 
 A Flutter application that displays daily quotes and allows users to save their favorites. This project implements the design from the provided SVG mockup.
 
+## Demo Video
+https://github.com/user-attachments/assets/13df4ba4-dabb-4ecd-92f8-f9ee9259eec7
+
+
+## Screenshots
+![image](https://github.com/user-attachments/assets/96c66798-6404-4337-acd3-34e29c267e2e)
+![image](https://github.com/user-attachments/assets/72ab598f-da73-49cd-9644-4164bf52a70a)
+![image](https://github.com/user-attachments/assets/5b5aec73-87c5-4c3e-a761-a60c45214158)
+![image](https://github.com/user-attachments/assets/fd79e46a-66f3-4856-8606-0275cd9fe661)
+
+![image](https://github.com/user-attachments/assets/936cf6d2-8007-4b50-a084-cc5ecf656a31)
+
+
+
+
+
 ## Features
 
 - Splash screen with loading animation
 - Display random quotes from an external API
 - Save favorite quotes locally
 - View and manage favorite quotes
+- Smooth animations for better visual appearance
 - Share quotes functionality
 
 ## Project Structure
