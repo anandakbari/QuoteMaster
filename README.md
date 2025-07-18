@@ -1,5 +1,5 @@
 # QuoteMaster - Daily Wisdom App
-
+dgdfgdsfg
 A Flutter application that displays daily quotes and allows users to save their favorites. This project implements the design from the provided SVG mockup.
 
 ## Demo Video
